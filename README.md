@@ -1,6 +1,6 @@
 ## Exercice du MOOCademy
 
-Exercice réalisé dans le cadre de la semaine Rails (THP), par notre belle équipe :
+Exercice réalisé dans le cadre de la semaine Rails / Back end (THP), par notre belle équipe :
 - [Ysaline Macé](https://github.com/Ysalien)
 - [Nikita Vasilev](https://github.com/nikitavasilev)
 - [Arthur Mansuy](https://github.com/tutus06) 
